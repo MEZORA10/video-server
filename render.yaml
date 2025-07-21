@@ -7,15 +7,3 @@ services:
 
 
 
-
-
-git init
-git remote add origin https://github.com/MEZORA10/video-server
-git add .
-git commit -m "initial commit"
-git push -u origin master
-
-
-
-git config --global user.name "MEZORA10"
-git config --global user.email "mezghicheabdelmounaim10@gmail.com"
